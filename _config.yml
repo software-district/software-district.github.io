@@ -12,13 +12,13 @@ keep_files:
   - ".gitignore"
 
 # Site settings
-title: Airspace
+title: Software District
 subtitle: "A free HTML5 agency template"
-url: "http://ndrewtl.github.io" # the base hostname & protocol for your site
+url: "https://software-district.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: "/airspace-jekyll"
+baseurl: "/main"
 cover: "/assets/cover.png"
-logo: "/assets/logo.png"
+logo: "/assets/sdlogo-resized.png"
 
 # Build settings
 markdown: kramdown
