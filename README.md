@@ -1,9 +1,20 @@
 ## About
 
-Sofware District Homepage
+This is the Sofware District homepage.
 
-## Deployment
+## Setting up Jekyll
 
-To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `jekyll serve` or `bundle exec jekyll serve` to start the Jekyll server.
-I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll's website.
+Follow instructions in <https://jekyllrb.com/docs/>.
+
+##  Running the project locally
+
+```Powershell
+
+
+bundle install -> installs dependencies
+
+bundle exec jekyll s -> starts the jekyll server
+
+```
+
 
